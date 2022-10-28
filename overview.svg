@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1920px"
    height="1080px"
    viewBox="0 0 1920 1080"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="overview.svg"
    inkscape:export-filename="/media/locxter/data/tech-stuff/arduino/xrcsbkgmpd/overview.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <clipPath
@@ -36,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="779.99712"
-     inkscape:cy="675.90988"
+     inkscape:zoom="0.26205213"
+     inkscape:cx="921.57237"
+     inkscape:cy="1255.4754"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:snap-page="true"
@@ -56,11 +56,12 @@
      inkscape:snap-bbox="true"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1376"
-     inkscape:window-x="1080"
-     inkscape:window-y="278"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2520"
+     inkscape:window-height="1412"
+     inkscape:window-x="1120"
+     inkscape:window-y="240"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -88,7 +89,7 @@
        clip-path="url(#clipPath873)" />
     <text
        xml:space="preserve"
-       style="font-size:192px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+       style="font-size:192px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke:#ffffff;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
        x="700.30139"
        y="408.42105"
        id="text879"><tspan
@@ -96,10 +97,10 @@
          id="tspan877"
          x="700.30139"
          y="408.42105"
-         style="font-size:192px;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;">xrcsbkgmpd</tspan></text>
+         style="font-size:192px;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke:#ffffff;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">xrcsbkgmpd</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:96px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace"
+       style="font-size:96px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;stroke:#ffffff;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
        x="1270.6406"
        y="642.23389"
        id="text883"><tspan
@@ -107,11 +108,11 @@
          id="tspan881"
          x="1270.6406"
          y="642.23389"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle">An exercise bike</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke:#ffffff;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">An exercise bike</tspan><tspan
          sodipodi:role="line"
          x="1270.6406"
          y="762.23389"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke:#ffffff;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan903">gamepad</tspan></text>
   </g>
 </svg>
