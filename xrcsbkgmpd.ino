@@ -6,9 +6,15 @@ const int RIGHT_TRIGGER_PIN = 3;
 const int ROTATION_SENSOR_PIN = 4;
 
 // Other variables
-unsigned long currentMillis = 0, lastRotation = 0;
-float rpm = 0, avgOldRpm = 0, oldRpms[30];
-bool isUpPressed = false, isLeftPressed = false, isRightPressed = false, isPaused = false;
+unsigned long currentMillis = 0;
+unsigned long lastRotation = 0;
+float rpm = 0;
+float avgOldRpm = 0;
+float oldRpms[30];
+bool isUpPressed = false;
+bool isLeftPressed = false;
+bool isRightPressed = false;
+bool isPaused = false;
 
 // Setup function
 void setup() {
