@@ -35,7 +35,7 @@ void setup() {
 void loop() {
     currentMillis = millis();
     // Calculate current RPM on every rotation when the user is pedalling and respond with a game input
-    if (digitalRead(ROTATION_SENSOR_PIN) == HIGH && currentMillis - lastRotation > 200 && currentMillis - lastRotation < 2000) {
+    if (digitalRead(ROTATION_SENSOR_PIN) == HIGH && currentMillis - lastRotation >= 200 && currentMillis - lastRotation <= 2000) {
         // Resume the game if it was previously paused
         if (isPaused) {
             Keyboard.write(KEY_ESC);
