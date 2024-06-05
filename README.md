@@ -2,6 +2,7 @@
 
 ## Overview
 
+> This project is **DEPRECATED**, therefore might not be on par with my current coding standards and will not receive any updates now or in the future.
 
 ![Overview image](overview.png)
 
